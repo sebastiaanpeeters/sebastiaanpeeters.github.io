@@ -1,0 +1,126 @@
+body {
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+p {
+}
+
+.row {
+    width: 100%;
+    margin-left: 0;
+}
+
+.col {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.col-7 {
+    min-height: 800px;
+    vertical-align: top;
+}
+
+.marginAdd {
+    position: absolute;
+    left: -200px;
+}
+
+.supraAdd {
+    vertical-align: super;
+    font-size: 80%;
+}
+
+.infraAdd {
+    vertical-align: sub;
+    font-size: 80%;
+}
+
+.mirador-canvas-nav {
+    display: none !important;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: left;
+    width: 45%;
+    margin-left: 50px;
+}
+.title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#sel-hand {
+    width: 20%;
+    display: inline;
+}
+
+#deletionsButton {
+    margin-left: 10px;
+    margin-right: 10px;    
+}
+
+#notesButton {
+    
+}
+
+#backButton {
+    width: 100px; /* Keep it identical to width of nextButton. */
+    margin: auto;
+}
+
+#nextButton{
+    width: 100px;
+    margin: auto;
+}
+
+.pagenumber {
+    float: right;
+    margin-right: 50px;
+    border-style: none none solid solid;
+    border-bottom-left-radius: 100%;
+    padding: 10px;
+    border-width: thin;
+}
+
+.overwrittenAdd {
+    font-weight: bold;
+}
+
+#sel-page {
+    width: 60px;
+    display: inline;
+    margin: auto;
+}
+
+note {
+    display: none;
+}
+
+corr {
+    display: none;
+}
+
+#readerButton {
+    float: right;
+    width: 180px;
+}
+
+#notesButton {
+    float: right;
+    margin-right: 10px;
+}
+
